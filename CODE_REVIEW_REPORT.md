@@ -1,4 +1,4 @@
-# hm-dianping 项目代码评审报告
+# miximixi 项目代码评审报告
 
 > 依据：`.cursor/rules/ai-judge.mdc`  
 > 评审范围：`src/main/java` 及主要配置、脚本资源  
